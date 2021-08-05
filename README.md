@@ -10,6 +10,7 @@
 
 [<img align="left" alt="AlfianReno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AlfianReno | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="AlfianReno | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -39,3 +40,4 @@
 [nodejs]: https://id.wikipedia.org/wiki/Node.js
 [git]: https://id.wikipedia.org/wiki/Git
 [github]: https://id.wikipedia.org/wiki/GitHub
+[facebook]: https://www.facebook.com/kelapamuda21
