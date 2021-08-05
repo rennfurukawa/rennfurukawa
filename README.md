@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects and Mastering Web Programming
 - ⚡ Fun fact: I love to play football and edits some photos
+- 💼 I'm being moderator at discord server for 1 year
 
 ### Connect with me:
 
