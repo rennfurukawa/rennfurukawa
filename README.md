@@ -2,9 +2,9 @@
 
 ## I'm a Student, and now i'm focused on Web Programming & starts making some Discord bot!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌟 I’m currently learning everything 😅
 - 🥅 2021 Goals: Contribute more to Open Source projects and Mastering Web Programming
-- ⚡ Fun fact: I love to play football and edits some photos
+- 🗿 Fun fact: I love to play football and edits some photos
 - 💼 I'm being moderator on discord server for 1 year
 
 ### Connect with me:
