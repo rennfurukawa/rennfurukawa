@@ -1,4 +1,5 @@
-### Hi there, I'm Alfian Reno Prasetyo - aka Reno 👋
+### Hi there, I'm Alfian Reno Prasetyo - aka Reno<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
 
 ## I'm a Student, and now i'm focused on Web Programming & starts making some Discord bot!
 
