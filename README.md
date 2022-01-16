@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://c.tenor.com/GIJDPS0ZR3UAAAAC/joker-persona.gif" height="100px"/></a>
 
 <h1 align="center">Hi there, I'm Alfian Reno Prasetyo👋</h1>
-<h3 align="center">I'm a student who loves learn Programming</h3>
+<h3 align="center">"I'll build a world, where God cannot take us."</h3>
 
 ## About Me:
 
