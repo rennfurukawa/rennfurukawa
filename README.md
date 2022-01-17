@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/804702773760753664/932572727380963338/971a5fd68f5e4382dc0a4e65cb770abfa4a47be2_s2_n2.png" height="100px"/></a>
 
 <h1 align="center">Hi there, I'm Alfian Reno Prasetyo👋</h1>
-<h3 align="center">"If i can't stop time, I'll build a world, where God cannot take us."</h3>
+<h3 align="center">"If i can't stop time, I'll build a world where God cannot take us."</h3>
 
 ## About Me:
 
