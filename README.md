@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning Cyber Security
   
-- 🥅 My Goals: Contribute more to Open Source projects and Mastering Cyber Security.
-  
-- ⚡ Fun fact: I love to play football and edits some photos.
+- 🥅 My Goals: Being sysadmin and Mastering Cyber Security.
   
 - 📫 I use Discord for my chatting platform.
 
