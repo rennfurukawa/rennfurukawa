@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Alfian Reno Prasetyo👋</h1>
-If you have any questions, you can reach me on [Facebook](https://www.facebook.com/kelapamuda21/).
+<h3 align="center">If you have any questions, feel free to reach me!</h3>
+</br>
+<p align="center">
+    <img src = "https://discord.c99.nl/widget/theme-2/302297098156507146.png">
+</p>
 
 
 ## About Me:
@@ -70,4 +74,5 @@ If you have any questions, you can reach me on [Facebook](https://www.facebook.c
     <img src="https://komarev.com/ghpvc/?username=AlfianReno">
 </a>
 <a href="https://github.com/AlfianReno?tab=followers"><img src="https://img.shields.io/github/followers/AlfianReno?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
