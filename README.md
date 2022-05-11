@@ -30,8 +30,6 @@ He would be happy if you check his profile on this [website.](https://play.picoc
 - 🌸 I don't have any hobbies, but i have some interests to anime, manga, and j-pop.
 
 
-<br />
-
 ## Languages and Tools:
 
 <p align="left"> 
