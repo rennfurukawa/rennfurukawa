@@ -20,7 +20,7 @@ He would be happy if you check his profile on this [website.](https://play.picoc
 
 - 🌱 I’m currently learning Cyber Security & do some CTF stuffs.
   
-- 📫 You can reach me in [Discord](https://discord.com/users/302297098156507146)
+- 📫 You can reach me on [Discord](https://discord.com/users/302297098156507146)
 
 - 🤓 My goal is finish all challenges in every CTF's Platform. :nerd: 
 
