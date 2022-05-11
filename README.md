@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my Profile!
 Reno, sometimes people loves to call him "Renn".
 
-Renn is a lazy, impatient, and have a such bad habit (sometimes), but he do loves somes digital stuffs, like Cyber Security or those things which are related to Forensics.
+Renn is lazy, impatient, and have a such bad habit (sometimes), but he do loves somes digital stuffs, like Cyber Security or those things which are related to Forensics.
 
 He starts his journey on Cyber Security maybe 1-2 years ago, now he's a CTF's Enthusiast, he do somes CTF stuffs in PicoCTF & CTFLearn website.
 
