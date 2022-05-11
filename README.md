@@ -1,18 +1,33 @@
-<h1 align="center">Hi there, I'm Alfian Reno Prasetyo👋</h1>
-<h3 align="center">If you have any questions, feel free to reach me!</h3>
-</br>
+## Hi there, Welcome to my Profile!
+Reno, sometimes people loves to call him "Renn".
+
+Renn is a lazy, impatient, and have a such bad habit (sometimes), but he do loves somes digital stuffs, like Cyber Security or those things which are related to Forensics.
+
+He starts his journey on Cyber Security maybe 1-2 years ago, now he's a CTF's Enthusiast, he do somes CTF stuffs in PicoCTF & CTFLearn website.
+
+He would be happy if you check his profile on this [website.](https://play.picoctf.org/users/sh1roneko)
+
+<br />
+
 <p align="center">
     <img src = "https://discord.c99.nl/widget/theme-2/302297098156507146.png">
 </p>
 
 
+
+
+
 ## About Me:
 
-- 🌱 I’m currently learning Cyber Security
+<img align="right" alt="picture" width="150" src="https://i.pinimg.com/originals/0c/48/72/0c487289fc90cde3a9b456e2fb129386.jpg">
+
+- 🌱 I’m currently learning Cyber Security & do somes CTF stuffs.
   
-- 🥅 My Goals: Being sysadmin and Mastering Cyber Security.
-  
-- 📫 I use Discord for my chatting platform.
+- 📫 You can reach me in [Discord](https://discord.com/users/302297098156507146)
+
+- 🤓 My goal is finish all challenges in every CTF's Platform. :nerd: 
+
+- 🌸 I don't have any hobbies, but i have some interests to anime, manga, and j-pop.
 
 
 <br />
