@@ -3,7 +3,7 @@ Reno, sometimes people loves to call him "Renn".
 
 Renn is lazy, impatient, and have a such bad habit (sometimes), but he do loves somes digital stuffs, like Cyber Security or those things which are related to Forensics.
 
-He starts his journey on Cyber Security maybe 1-2 years ago, now he's a CTF's Enthusiast, he do somes CTF stuffs in PicoCTF & CTFLearn website.
+He starts his journey on Cyber Security maybe 1-2 years ago, now he's a CTF's Enthusiast, he do some CTF stuffs in PicoCTF & CTFLearn website.
 
 He would be happy if you check his profile on this [website.](https://play.picoctf.org/users/sh1roneko)
 
@@ -14,14 +14,11 @@ He would be happy if you check his profile on this [website.](https://play.picoc
 </p>
 
 
-
-
-
-## About Me:
+## About Me :
 
 <img align="right" alt="picture" width="150" src="https://i.pinimg.com/originals/0c/48/72/0c487289fc90cde3a9b456e2fb129386.jpg">
 
-- 🌱 I’m currently learning Cyber Security & do somes CTF stuffs.
+- 🌱 I’m currently learning Cyber Security & do some CTF stuffs.
   
 - 📫 You can reach me in [Discord](https://discord.com/users/302297098156507146)
 
@@ -30,7 +27,7 @@ He would be happy if you check his profile on this [website.](https://play.picoc
 - 🌸 I don't have any hobbies, but i have some interests to anime, manga, and j-pop.
 
 
-## Languages and Tools:
+## Languages and Tools : 
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -41,40 +38,28 @@ He would be happy if you check his profile on this [website.](https://play.picoc
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/PHP" target="_blank"> <img src="https://img.icons8.com/dusk/55/000000/php-logo.png"/> </a>
-
+    <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
+    <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/Kali_Linux" target="_blank"> <img src="https://img.icons8.com/plasticine/52/000000/kali-linux.png"/> </a>
 </p>
 
 
-
-<br />
-<br />
+## Statistics : 
 
 <p align="center">
     <a href="https://github.com/AlfianReno/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlfianReno's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfianReno&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlfianReno's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfianReno&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</a>
 </p>
 
-<br/>
-<br/>
+<p align="center">
+    <a href="https://github.com/AlfianReno/github-readme-stats"><img alt="AlfianReno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlfianReno&show_icons=true&count_private=true&theme=react&hide_border=true&stroke=0000&bg_color=060A0CD0" /></a>
+</p>
 
----
-<a href="https://github.com/AlfianReno/github-readme-stats"><img alt="AlfianReno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlfianReno&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<a href="https://github.com/AlfianReno/github-readme-stats"><img alt="AlfianReno's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<a href="https://github.com/AlfianReno/github-readme-activity-graph"><img alt="AlfianReno's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlfianReno&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
 
-<a href="https://github.com/AlfianReno/github-readme-activity-graph"><img alt="AlfianReno's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlfianReno&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
+## Connect with me : 
 
 <p align="left">
     <a href = "https://instagram.com/ar.meowzz"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -82,10 +67,20 @@ He would be happy if you check his profile on this [website.](https://play.picoc
     <a href = "https://discord.gg/hx"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 </p>
 
-## ❤ Views and Followers:
+## ❤ Views and Followers :
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AlfianReno">
 </a>
 <a href="https://github.com/AlfianReno?tab=followers"><img src="https://img.shields.io/github/followers/AlfianReno?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br />
+
+<h3 align="center">Anyway, thanks for coming!</h2>  
+<p align="center">
+    <img src="https://ctl.s6img.com/society6/img/Bm1TLx-ODLrqcGWmVjnN1UA6My8/w_700/coffee-mugs/swatch/~artwork,fw_4601,fh_1998,fx_-1449,fy_-2375,iw_7100,ih_7100/s6-original-art-uploads/society6/uploads/misc/452ff72725a0458aa1e1b87f0c11b63f/~~/cowboy-bebop-see-you-space-cowboy-mugs.jpg?wait=0&attempt=0">
+</p>
+
+
+
 
 
