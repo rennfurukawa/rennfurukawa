@@ -62,7 +62,7 @@ He would be happy if you check his profile on this [website.](https://play.picoc
 ## Connect with me : 
 
 <p align="center">
-    <a href = "https://instagram.com/ar.meowzz"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://instagram.com/rennwokeuplikethis"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href = "https://www.facebook.com/kelapamuda21"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
     <a href = "https://discord.com/users/302297098156507146"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 </p>
