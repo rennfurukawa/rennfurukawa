@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my Profile!
 Reno, sometimes people loves to call him "Renn".
 
-Renn is lazy, impatient, and have a such bad habit (sometimes), but he do loves somes digital stuffs, like Cyber Security or those things which are related to Forensics.
+Renn is lazy, impatient, and have a such bad habit (sometimes), but he loves some digital stuffs, like Cyber Security or those things which are related to Forensics.
 
 He starts his journey on Cyber Security maybe 1-2 years ago, now he's a CTF's Enthusiast, he do some CTF stuffs in PicoCTF & CTFLearn website.
 
@@ -22,7 +22,7 @@ He would be happy if you check his profile on this [website.](https://play.picoc
   
 - 📫 You can reach me on [Discord](https://discord.com/users/302297098156507146)
 
-- 🤓 My goal is finish all challenges in every CTF's Platform. :nerd: 
+- 🤓 My goal is finish all challenges in every CTF's Platform :nerd: 
 
 - 🌸 I don't have any hobbies, but i have some interests to anime, manga, and j-pop.
 
