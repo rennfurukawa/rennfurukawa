@@ -5,7 +5,6 @@ Renn is lazy, impatient, and have a such bad habit (sometimes), but he loves som
 
 He starts his journey on Cyber Security maybe 1-2 years ago, now he's a CTF's Enthusiast, he do some CTF stuffs in PicoCTF & CTFLearn website.
 
-He would be happy if you check his profile on this [website.](https://play.picoctf.org/users/sh1roneko)
 
 <br />
 
