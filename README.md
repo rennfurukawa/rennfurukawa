@@ -3,7 +3,6 @@ Reno, sometimes people loves to call him "Renn".
 
 Renn is lazy, impatient, and have a such bad habit (sometimes), but he loves some digital stuffs, like Cyber Security or those things which are related to Forensics & Cryptography.
 
-Recenty, he do some CTF's but solo, you can check his profile in [here](https://ctftime.org/team/195118)
 
 
 <br />
