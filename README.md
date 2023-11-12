@@ -1,3 +1,3 @@
 <p style="align-center">
-    <img src="https://waifu2x.booru.pics/outfiles/d68e0a7797322fc44424cbaf6d0ab47045c3130e_s2_n2_y1.png">
+    <img src="https://cdn.discordapp.com/attachments/764727363253829675/1173272485001699378/8c23f0b970c3548374065088c0a07c4c7f0c7c07_s2_n1_y2.png">
 </p>
